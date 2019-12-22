@@ -1,9 +1,6 @@
-# Deep Learning Shared Task
-# 
-# Xiaohong Cai 
-# Anr: u955707
-# Snr: 2023958 
-# CodaLab name: jukebox
+# Predicting SVG codes from Images
+# by Vincent Cai 
+
 
 import numpy as np
 import os
